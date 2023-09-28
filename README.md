@@ -9,11 +9,7 @@ Bu repo, C dilinde geliştirilmiş çeşitli algoritmaları ve uygulamaları iç
   - Yılanın hareket yönü ok tuşlarıyla kontrol edilir. 
   - Yılan yemi yediğinde boyutu artar. 
   - Yılan kendi kendine veya duvarlara çarptığında oyun sona erer.
-
-- **Karmaşık Sayılar İçin Sınıf Tasarımı:** 
-  - `Complex` adında bir sınıf ile karmaşık sayıları temsil etme ve işlem yapma.
-  - `deneme` adında, `Complex` nesneleri için dinamik bir dizi oluşturan bir başka sınıf.
-
+  - 
 - **Leibniz Formülü ile π (pi) Hesaplama:** 
   - Leibniz formülü kullanılarak π'nin (pi) yaklaşık değerini hesaplama.
   - Kullanıcı tarafından belirtilen terim sayısına kadar bu seriyi hesaplar.
@@ -29,6 +25,10 @@ Bu repo, C dilinde geliştirilmiş çeşitli algoritmaları ve uygulamaları iç
 - **Dikdörtgen Çizimi:** 
   - Kullanıcının girdiği boyutlarda bir dikdörtgen çizimi.
   - Dikdörtgenin sınırları `*` karakteri ile belirtme, iç kısımlarında boşluk bırakma.
+
+- **Karmaşık Sayılar İçin Sınıf Tasarımı:** 
+  - `Complex` adında bir sınıf ile karmaşık sayıları temsil etme ve işlem yapma.
+  - `deneme` adında, `Complex` nesneleri için dinamik bir dizi oluşturan bir başka sınıf.
     
 - **Üçgen, Beşgen ve Altıgen Sayılar Arasında Ortak Değerlerin Bulunması:** 
   - Belirli bir aralıkta üçgen, beşgen ve altıgen sayılar arasında ortak olan sayıları bulma.
