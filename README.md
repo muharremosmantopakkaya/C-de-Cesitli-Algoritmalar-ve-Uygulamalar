@@ -9,7 +9,7 @@ Bu repo, C dilinde geliştirilmiş çeşitli algoritmaları ve uygulamaları iç
   - Yılanın hareket yönü ok tuşlarıyla kontrol edilir. 
   - Yılan yemi yediğinde boyutu artar. 
   - Yılan kendi kendine veya duvarlara çarptığında oyun sona erer.
-  - 
+  
 - **Leibniz Formülü ile π (pi) Hesaplama:** 
   - Leibniz formülü kullanılarak π'nin (pi) yaklaşık değerini hesaplama.
   - Kullanıcı tarafından belirtilen terim sayısına kadar bu seriyi hesaplar.
