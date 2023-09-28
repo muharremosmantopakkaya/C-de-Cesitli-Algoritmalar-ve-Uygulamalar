@@ -1,4 +1,4 @@
-# C'de Çeşitli Algoritmalar ve Uygulamalar
+# C++ ve C'de Çeşitli Algoritmalar ve Uygulamalar
 
 Bu repo, C dilinde geliştirilmiş basit bir yılan oyununu içermektedir. Temel oyun mekaniği, yılanın hareket etmesi, yemi yemesi ve yılanın kendi kendine veya duvarlara çarpması durumunda oyunun bitmesi üzerine kurulmuştur.
 
